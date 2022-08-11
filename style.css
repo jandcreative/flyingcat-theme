@@ -21,10 +21,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 @keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     transform: translateY(0);
-    -webkit-transform:;
-    -moz-transform:;
-    -ms-transform:;
-    -o-transform:;
 }
   40% {
     transform: translateY(-20px);
